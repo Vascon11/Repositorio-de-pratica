@@ -1,0 +1,14 @@
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/bin/Debug/net8.0/CalculadoraCSharpp
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/bin/Debug/net8.0/CalculadoraCSharpp.deps.json
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/bin/Debug/net8.0/CalculadoraCSharpp.runtimeconfig.json
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/bin/Debug/net8.0/CalculadoraCSharpp.dll
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/bin/Debug/net8.0/CalculadoraCSharpp.pdb
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/obj/Debug/net8.0/CalculadoraCSharpp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/obj/Debug/net8.0/CalculadoraCSharpp.AssemblyInfoInputs.cache
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/obj/Debug/net8.0/CalculadoraCSharpp.AssemblyInfo.cs
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/obj/Debug/net8.0/CalculadoraCSharpp.csproj.CoreCompileInputs.cache
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/obj/Debug/net8.0/CalculadoraCSharpp.dll
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/obj/Debug/net8.0/refint/CalculadoraCSharpp.dll
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/obj/Debug/net8.0/CalculadoraCSharpp.pdb
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/obj/Debug/net8.0/CalculadoraCSharpp.genruntimeconfig.cache
+/home/vascon1/Documentos/CSharp/Calculadora/CalculadoraCSharpp/obj/Debug/net8.0/ref/CalculadoraCSharpp.dll

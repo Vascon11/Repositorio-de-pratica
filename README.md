@@ -55,7 +55,7 @@ Este repositório é meu arquivo pessoal e diário de bordo. Aqui, organizo todo
 
 ## 📧 Contato
 
- * **GitHub:** [Vascon11](https://github.com/Vascon11/Repositorio-de-pratica)
+ * **GitHub:** [Vascon11](https://github.com/Vascon11/)
 
 * **Email profissional:** [gabrielvascon11@outlook.com](mailto:gabrielvascon11@outlook.com)
 

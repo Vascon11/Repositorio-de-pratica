@@ -1,10 +1,10 @@
-# 📚 Repositório de Prática: Minha Jornada Multilinguagem
+# Repositório de Prática: Minha Jornada Multilinguagem
 
 Este repositório é meu arquivo pessoal e diário de bordo. Aqui, organizo todos os códigos, exercícios e projetos desenvolvidos desde o início da minha jornada na programação (cerca de 2023), documentando minha evolução técnica.
 
 ---
 
-## 🎯 Objetivos do Repositório
+## Objetivos do Repositório
 
 - **Organização:** Preservar o trabalho realizado enquanto exploro novos conceitos.
 - **Portfólio:** Demonstrar habilidades práticas em diferentes paradigmas de programação.
@@ -12,9 +12,9 @@ Este repositório é meu arquivo pessoal e diário de bordo. Aqui, organizo todo
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
-### Python (Desde 2023)
+### Python (2023)
 
 **Foco:**
 
@@ -26,10 +26,11 @@ Este repositório é meu arquivo pessoal e diário de bordo. Aqui, organizo todo
 
 - VS Code
 - PyCharm
+- Windows
 
 ---
 
-### C# (Novo 🚀)
+### C# (2026)
 
 **Foco:**
 
@@ -41,6 +42,7 @@ Este repositório é meu arquivo pessoal e diário de bordo. Aqui, organizo todo
 
 - Visual Studio
 - VS Code
+- Linux
 
 ---
 
@@ -53,6 +55,8 @@ Este repositório é meu arquivo pessoal e diário de bordo. Aqui, organizo todo
 
 ## 📧 Contato
 
-- **GitHub:** Vascon11
-- **Email:** gabrielvascon11@outlook.com
-- **LinkedIn:** Gabriel Vascon
+ * **GitHub:** [Vascon11](https://github.com/Vascon11/Repositorio-de-pratica)
+
+* **Email profissional:** [gabrielvascon11@outlook.com](mailto:gabrielvascon11@outlook.com)
+
+*  **linkedin:** [Gabriel Vascon](https://www.linkedin.com/in/gabriel-vascon-luchi-da-silva-197a14217/) 

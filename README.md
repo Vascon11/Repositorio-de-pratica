@@ -1,23 +1,58 @@
-## Repositório de Prática em Python: Minha Jornada de Aprendizado (cerca de 2023)
+# 📚 Repositório de Prática: Minha Jornada Multilinguagem
 
-Este repositório serve como meu arquivo pessoal e diário de bordo para armazenar todos os códigos, exercícios e projetos desenvolvidos durante minha fase inicial de aprendizado da linguagem Python.
+Este repositório é meu arquivo pessoal e diário de bordo. Aqui, organizo todos os códigos, exercícios e projetos desenvolvidos desde o início da minha jornada na programação (cerca de 2023), documentando minha evolução técnica.
 
-# O principal objetivo deste repositório é:
+---
 
-* Organizar e preservar o trabalho de codificação realizado enquanto aprendia os fundamentos e conceitos intermediários de Python.
+## 🎯 Objetivos do Repositório
 
-* Servir como um portfólio prático das minhas habilidades iniciais em Python.
+- **Organização:** Preservar o trabalho realizado enquanto exploro novos conceitos.
+- **Portfólio:** Demonstrar habilidades práticas em diferentes paradigmas de programação.
+- **Evolução:** Permitir a revisão e o acompanhamento do meu progresso ao longo do tempo.
 
-* Permitir a revisão e o acompanhamento do meu progresso e evolução ao longo do tempo.
+---
 
-# Tecnologias Utilizadas
+## 🛠️ Tecnologias e Ferramentas
 
-* Linguagem Principal: Python3
+### Python (Desde 2023)
 
-* Ambiente: IDEs como VS Code e PyCharm.
+**Foco:**
 
-### 📧 Contato
+- Fundamentos
+- Lógica de programação
+- Conceitos intermediários
 
-* **GitHub:** [Vascon11](https://github.com/Vascon11/Repositorio-de-pratica)
-* **Email profissional:** [gabrielvascon11@outlook.com](mailto:gabrielvascon11@outlook.com)
-*  **linkedin:** [Gabriel Vascon](https://www.linkedin.com/in/gabriel-vascon-luchi-da-silva-197a14217/)
+**Ambiente:**
+
+- VS Code
+- PyCharm
+
+---
+
+### C# (Novo 🚀)
+
+**Foco:**
+
+- Desenvolvimento .NET
+- Programação Orientada a Objetos (POO)
+- Tipagem forte
+
+**Ambiente:**
+
+- Visual Studio
+- VS Code
+
+---
+
+## 📁 Estrutura de Pastas
+
+- **python:** Scripts, automações e exercícios de lógica  
+- **csharp:** Projetos de console e estudos de POO
+
+---
+
+## 📧 Contato
+
+- **GitHub:** Vascon11
+- **Email:** gabrielvascon11@outlook.com
+- **LinkedIn:** Gabriel Vascon

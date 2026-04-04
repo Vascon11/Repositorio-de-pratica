@@ -1,0 +1,14 @@
+/home/vascon1/Documentos/CSharp/dicionario/bin/Debug/net8.0/dicionario
+/home/vascon1/Documentos/CSharp/dicionario/bin/Debug/net8.0/dicionario.deps.json
+/home/vascon1/Documentos/CSharp/dicionario/bin/Debug/net8.0/dicionario.runtimeconfig.json
+/home/vascon1/Documentos/CSharp/dicionario/bin/Debug/net8.0/dicionario.dll
+/home/vascon1/Documentos/CSharp/dicionario/bin/Debug/net8.0/dicionario.pdb
+/home/vascon1/Documentos/CSharp/dicionario/obj/Debug/net8.0/dicionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/vascon1/Documentos/CSharp/dicionario/obj/Debug/net8.0/dicionario.AssemblyInfoInputs.cache
+/home/vascon1/Documentos/CSharp/dicionario/obj/Debug/net8.0/dicionario.AssemblyInfo.cs
+/home/vascon1/Documentos/CSharp/dicionario/obj/Debug/net8.0/dicionario.csproj.CoreCompileInputs.cache
+/home/vascon1/Documentos/CSharp/dicionario/obj/Debug/net8.0/dicionario.dll
+/home/vascon1/Documentos/CSharp/dicionario/obj/Debug/net8.0/refint/dicionario.dll
+/home/vascon1/Documentos/CSharp/dicionario/obj/Debug/net8.0/dicionario.pdb
+/home/vascon1/Documentos/CSharp/dicionario/obj/Debug/net8.0/dicionario.genruntimeconfig.cache
+/home/vascon1/Documentos/CSharp/dicionario/obj/Debug/net8.0/ref/dicionario.dll

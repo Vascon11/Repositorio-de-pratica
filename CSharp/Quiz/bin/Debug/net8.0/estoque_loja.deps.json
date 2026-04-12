@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "estoque_loja/1.0.0": {
+        "runtime": {
+          "estoque_loja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "estoque_loja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

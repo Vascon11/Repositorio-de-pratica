@@ -1,0 +1,14 @@
+/home/vascon1/Documentos/CSharp/estoque_loja/bin/Debug/net8.0/estoque_loja
+/home/vascon1/Documentos/CSharp/estoque_loja/bin/Debug/net8.0/estoque_loja.deps.json
+/home/vascon1/Documentos/CSharp/estoque_loja/bin/Debug/net8.0/estoque_loja.runtimeconfig.json
+/home/vascon1/Documentos/CSharp/estoque_loja/bin/Debug/net8.0/estoque_loja.dll
+/home/vascon1/Documentos/CSharp/estoque_loja/bin/Debug/net8.0/estoque_loja.pdb
+/home/vascon1/Documentos/CSharp/estoque_loja/obj/Debug/net8.0/estoque_loja.GeneratedMSBuildEditorConfig.editorconfig
+/home/vascon1/Documentos/CSharp/estoque_loja/obj/Debug/net8.0/estoque_loja.AssemblyInfoInputs.cache
+/home/vascon1/Documentos/CSharp/estoque_loja/obj/Debug/net8.0/estoque_loja.AssemblyInfo.cs
+/home/vascon1/Documentos/CSharp/estoque_loja/obj/Debug/net8.0/estoque_loja.csproj.CoreCompileInputs.cache
+/home/vascon1/Documentos/CSharp/estoque_loja/obj/Debug/net8.0/estoque_loja.dll
+/home/vascon1/Documentos/CSharp/estoque_loja/obj/Debug/net8.0/refint/estoque_loja.dll
+/home/vascon1/Documentos/CSharp/estoque_loja/obj/Debug/net8.0/estoque_loja.pdb
+/home/vascon1/Documentos/CSharp/estoque_loja/obj/Debug/net8.0/estoque_loja.genruntimeconfig.cache
+/home/vascon1/Documentos/CSharp/estoque_loja/obj/Debug/net8.0/ref/estoque_loja.dll

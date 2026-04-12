@@ -1,0 +1,14 @@
+/home/vascon1/Documentos/CSharp/cadastro/obj/Debug/net8.0/cadastro.GeneratedMSBuildEditorConfig.editorconfig
+/home/vascon1/Documentos/CSharp/cadastro/obj/Debug/net8.0/cadastro.AssemblyInfoInputs.cache
+/home/vascon1/Documentos/CSharp/cadastro/obj/Debug/net8.0/cadastro.AssemblyInfo.cs
+/home/vascon1/Documentos/CSharp/cadastro/obj/Debug/net8.0/cadastro.csproj.CoreCompileInputs.cache
+/home/vascon1/Documentos/CSharp/cadastro/bin/Debug/net8.0/cadastro
+/home/vascon1/Documentos/CSharp/cadastro/bin/Debug/net8.0/cadastro.deps.json
+/home/vascon1/Documentos/CSharp/cadastro/bin/Debug/net8.0/cadastro.runtimeconfig.json
+/home/vascon1/Documentos/CSharp/cadastro/bin/Debug/net8.0/cadastro.dll
+/home/vascon1/Documentos/CSharp/cadastro/bin/Debug/net8.0/cadastro.pdb
+/home/vascon1/Documentos/CSharp/cadastro/obj/Debug/net8.0/cadastro.dll
+/home/vascon1/Documentos/CSharp/cadastro/obj/Debug/net8.0/refint/cadastro.dll
+/home/vascon1/Documentos/CSharp/cadastro/obj/Debug/net8.0/cadastro.pdb
+/home/vascon1/Documentos/CSharp/cadastro/obj/Debug/net8.0/cadastro.genruntimeconfig.cache
+/home/vascon1/Documentos/CSharp/cadastro/obj/Debug/net8.0/ref/cadastro.dll

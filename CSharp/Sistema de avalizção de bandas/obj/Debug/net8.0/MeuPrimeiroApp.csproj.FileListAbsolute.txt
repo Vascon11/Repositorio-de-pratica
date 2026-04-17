@@ -1,0 +1,28 @@
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.deps.json
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.runtimeconfig.json
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.dll
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/bin/Debug/net8.0/MeuPrimeiroApp.pdb
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.AssemblyInfoInputs.cache
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.AssemblyInfo.cs
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.csproj.CoreCompileInputs.cache
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.dll
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/obj/Debug/net8.0/refint/MeuPrimeiroApp.dll
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.pdb
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/obj/Debug/net8.0/MeuPrimeiroApp.genruntimeconfig.cache
+/home/vascon1/Documentos/codigo em  C#/MeuPrimeiroApp/obj/Debug/net8.0/ref/MeuPrimeiroApp.dll
+/home/vascon1/Documentos/CSharp/Codigos/bin/Debug/net8.0/MeuPrimeiroApp
+/home/vascon1/Documentos/CSharp/Codigos/bin/Debug/net8.0/MeuPrimeiroApp.deps.json
+/home/vascon1/Documentos/CSharp/Codigos/bin/Debug/net8.0/MeuPrimeiroApp.runtimeconfig.json
+/home/vascon1/Documentos/CSharp/Codigos/bin/Debug/net8.0/MeuPrimeiroApp.dll
+/home/vascon1/Documentos/CSharp/Codigos/bin/Debug/net8.0/MeuPrimeiroApp.pdb
+/home/vascon1/Documentos/CSharp/Codigos/obj/Debug/net8.0/MeuPrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vascon1/Documentos/CSharp/Codigos/obj/Debug/net8.0/MeuPrimeiroApp.AssemblyInfoInputs.cache
+/home/vascon1/Documentos/CSharp/Codigos/obj/Debug/net8.0/MeuPrimeiroApp.AssemblyInfo.cs
+/home/vascon1/Documentos/CSharp/Codigos/obj/Debug/net8.0/MeuPrimeiroApp.csproj.CoreCompileInputs.cache
+/home/vascon1/Documentos/CSharp/Codigos/obj/Debug/net8.0/MeuPrimeiroApp.dll
+/home/vascon1/Documentos/CSharp/Codigos/obj/Debug/net8.0/refint/MeuPrimeiroApp.dll
+/home/vascon1/Documentos/CSharp/Codigos/obj/Debug/net8.0/MeuPrimeiroApp.pdb
+/home/vascon1/Documentos/CSharp/Codigos/obj/Debug/net8.0/MeuPrimeiroApp.genruntimeconfig.cache
+/home/vascon1/Documentos/CSharp/Codigos/obj/Debug/net8.0/ref/MeuPrimeiroApp.dll
